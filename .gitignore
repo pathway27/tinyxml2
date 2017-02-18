@@ -1,4 +1,6 @@
 # intermediate files
+libtinyxml2.a
+xmltest
 Win32/
 x64/
 ipch/
